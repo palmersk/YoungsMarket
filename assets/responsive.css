@@ -1,0 +1,13 @@
+/* Styling for elements that are on all pages */
+
+/* Responsive design for Smaller Desktop Browsers */
+@media only screen and (max-width: 980px) {
+}
+
+/* Responsive design for Tablet Browsers */
+@media only screen and (max-width: 768px) {
+}
+
+/* Responsive design for Phone Browsers */
+@media only screen and (max-width: 640px) {
+}
