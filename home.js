@@ -1,3 +1,7 @@
-$(window).load(function () {
-    $("#myModal").modal("show");
-}); 
+$( document ).ready(function() {
+      $('#myModal').modal({show:true});
+  }); 
+  $('#myModal').modal({
+    backdrop: 'static',
+    keyboard: false
+})
