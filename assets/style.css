@@ -10,3 +10,6 @@ background-color: rgb(18, 18, 156);
 .btn {
     margin: 2px;
 }
+.btn-primary:focus {
+    border-color: #FFD700;
+}
